@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "639255698586",
+    "firebase_url": "https://squad-ceabb.firebaseio.com",
+    "project_id": "squad-ceabb",
+    "storage_bucket": "squad-ceabb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639255698586:android:01965e84eeda382ad41323",
+        "android_client_info": {
+          "package_name": "com.squad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639255698586-k8q4cm4lp9av6a238pejhah79q3vnkkc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkN1FNvBIx_AGCK6GelhgpKdwL47oNnYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639255698586-k8q4cm4lp9av6a238pejhah79q3vnkkc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
